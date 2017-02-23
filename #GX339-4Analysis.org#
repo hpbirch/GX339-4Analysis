@@ -1,11 +1,11 @@
-* Project summary
+* Project summary 
 ** Day-to-day analysis log
 This project is focusing upon applying current models for AGN to
 BHXRBs. The progress being made is noted below, with the most recent
 comments at the top.
  - 22.02.17: HB and RW worked on completing coherence analysis with
    various segment numbers and working on understanding coherence. We
-   also worked on setting up Github.
+   also worked on setting up Github. This should now be on Github.
  - 21.02.17: Some of the files made are large so we've improved the
    run script to delete them once they don't need to be used anymore.
    The website now has images too! VZ improved the Excel file used to
